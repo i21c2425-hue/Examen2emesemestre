@@ -1,6 +1,12 @@
-Nom / Prenom :
+Nom / Prenom : RANDRIANASOLO Odilon Prince Joseph
+
 Groupe : L2 GL
 
-Lien du depot GitHub : https://github.com/votre-nom-utilisateur/gestion-commandes-produits
+Lien du depot GitHub :
+https://github.com/i21c2425-hue/Examen2emesemestre
+
 Lien de la video de demonstration (si demande) :
+A compléter si une vidéo est demandée
+
 Autres liens utiles :
+Aucun

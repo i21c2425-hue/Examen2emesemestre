@@ -1,7 +1,6 @@
-Nom / Prenom : RANDRIANASOLO Odilon Prince Joseph
-
+Nom/Prenom : RANDRIANASOLO Odilon Prince Joseph
+Numero de matricule :I21C
 Groupe : L2 GL
-
 Lien du depot GitHub :
 https://github.com/i21c2425-hue/Examen2emesemestre
 

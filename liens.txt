@@ -1,0 +1,6 @@
+Nom / Prenom :
+Groupe : L2 GL
+
+Lien du depot GitHub : https://github.com/votre-nom-utilisateur/gestion-commandes-produits
+Lien de la video de demonstration (si demande) :
+Autres liens utiles :
